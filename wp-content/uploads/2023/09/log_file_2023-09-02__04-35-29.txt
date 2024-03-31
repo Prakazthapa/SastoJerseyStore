@@ -1,0 +1,108 @@
+
+---Downloaded files---
+The import files for: Big Store Default were successfully downloaded!
+Initial max execution time = 1000
+Files info:
+Site URL = http://localhost/sastojerseystore
+Data file = C:\xampp\htdocs\sastojerseystore/wp-content/uploads/2023/09/demo-content-import-file_2023-09-02__04-35-29.xml
+Widget file = C:\xampp\htdocs\sastojerseystore/wp-content/uploads/2023/09/demo-widgets-import-file_2023-09-02__04-35-29.json
+Customizer file = C:\xampp\htdocs\sastojerseystore/wp-content/uploads/2023/09/demo-customizer-import-file_2023-09-02__04-35-29.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "big store" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "big store" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "big store" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "big store" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "big store" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "big store" (Media)
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Products list - Products - Imported
+
+Footer Widget Area 1 : 
+
+Text - More About Store - Imported
+
+Footer Widget Area 2 : 
+
+Text - Offline Stores - Imported
+
+Footer Widget Area 3 : 
+
+Text - Contact Details - Imported
+
+Footer Widget Area 4 : 
+
+Image - Download App - Imported
+
+WooCommerce Sidebar : 
+
+Filter Products by Price - Filter by price - Imported
+Products list - Popular Products - Imported
+Recent Posts - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

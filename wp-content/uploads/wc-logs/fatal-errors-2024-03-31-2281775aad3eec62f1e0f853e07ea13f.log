@@ -1,0 +1,4 @@
+2024-03-31T09:10:34+00:00 CRITICAL Maximum execution time of 1000 seconds exceeded in C:\xampp\htdocs\sastojerseystore\wp-includes\Requests\src\Transport\Curl.php on line 205
+
+2024-03-31T09:15:44+00:00 CRITICAL Maximum execution time of 1000 seconds exceeded in C:\xampp\htdocs\sastojerseystore\wp-includes\Requests\src\Transport\Curl.php on line 510
+
